@@ -1,0 +1,222 @@
+method name,weight
+android.permission.ACCESS_NETWORK_STATE,0.7934004609403704
+android.permission.SEND_SMS,0.752372951481104
+ConnectivityManager.getActiveNetworkInfo(),0.7333830168548854
+android.permission.READ_PHONE_STATE,0.6905854328804457
+android.intent.category.LAUNCHER,0.6749442179604133
+"SmsManager.sendTextMessage(java.lang.String, java.lang.String, java.lang.String, android.app.PendingIntent, android.app.PendingIntent)",0.671913520316707
+android.permission.RECEIVE_SMS,0.6545018671596043
+android.intent.action.MAIN,0.6537043665399862
+android.permission.INTERNET,0.6397905249425273
+Environment.getExternalStorageDirectory(),0.6234389726078033
+android.permission.WRITE_EXTERNAL_STORAGE,0.6112663622401611
+android.intent.action.BOOT_COMPLETED,0.6102800099919969
+android.permission.RECEIVE_BOOT_COMPLETED,0.5872136924782732
+android.provider.Telephony.SMS_RECEIVED,0.5754680622150818
+android.permission.ACCESS_WIFI_STATE,0.5411693288628969
+ConnectivityManager.getNetworkInfo(int),0.5311979920990115
+"Activity.onKeyDown(int, android.view.KeyEvent)",0.5281105120400396
+android.permission.ACCESS_FINE_LOCATION,0.523666932920853
+Activity.onPause(),0.4995290741769365
+"LocationManager.requestLocationUpdates(java.lang.String, long, float, android.location.LocationListener)",0.4889059090732504
+"PowerManager.newWakeLock(int, java.lang.String)",0.48810570986835966
+android.permission.WAKE_LOCK,0.4800965743346284
+TelephonyManager.getLine1Number(),0.4677827262129064
+android.permission.ACCESS_COARSE_LOCATION,0.46187228421144066
+LocationManager.getLastKnownLocation(java.lang.String),0.46086204590292645
+android.permission.VIBRATE,0.44134028601110487
+android.permission.READ_SMS,0.43623988226946864
+LocationManager.removeUpdates(android.location.LocationListener),0.4052716834327281
+android.permission.WRITE_APN_SETTINGS,0.4038238264212044
+android.permission.CHANGE_WIFI_STATE,0.3939549994586571
+ConnectivityManager.getAllNetworkInfo(),0.3920647356043494
+android.permission.WRITE_SETTINGS,0.38496115489329963
+android.permission.READ_CONTACTS,0.37768863454237156
+WifiInfo.getMacAddress(),0.36788651492178914
+WifiManager.setWifiEnabled(boolean),0.3656865415518755
+android.permission.GET_TASKS,0.35498272644932527
+android.permission.RESTART_PACKAGES,0.3438652059602836
+com.android.launcher.permission.INSTALL_SHORTCUT,0.3434445442008922
+TelephonyManager.getNetworkType(),0.3217737470826636
+android.permission.WRITE_CONTACTS,0.32006666361372016
+JSONObject.getInt(java.lang.String),0.31819026179081344
+android.permission.DISABLE_KEYGUARD,0.2811498868738349
+ActivityManager.restartPackage(java.lang.String),0.2676995678958809
+android.permission.RECEIVE_MMS,0.2617109175043941
+android.permission.BLUETOOTH_ADMIN,0.2614177873598589
+com.android.launcher.permission.UNINSTALL_SHORTCUT,0.2532370154101429
+android.permission.SET_WALLPAPER,0.25315582335248976
+android.intent.action.PHONE_STATE,0.25158284261419883
+BluetoothAdapter.enable(),0.24760476498454498
+Context.stopService(android.content.Intent),0.24480898078938207
+TelephonyManager.getCellLocation(),0.23932320860458933
+android.permission.CALL_PHONE,0.23630180423449598
+android.permission.PROCESS_OUTGOING_CALLS,0.23150361111362017
+android.intent.action.USER_PRESENT,0.23028258896004594
+BluetoothAdapter.isEnabled(),0.22303176685265047
+"JSONObject.optInt(java.lang.String, int)",0.21806380694694116
+BluetoothAdapter.disable(),0.21105918528828393
+ActivityManager.getProcessMemoryInfo(int[]),0.21081437315382345
+android.permission.BLUETOOTH,0.203829338913728
+android.permission.GET_ACCOUNTS,0.20180118589342477
+AccountManager.getAccounts(),0.19638104211888852
+"LocationManager.requestLocationUpdates(java.lang.String, long, float, android.location.LocationListener, android.os.Looper)",0.17318100323418495
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,0.16277860630518326
+android.permission.MODIFY_PHONE_STATE,0.16184146408591893
+android.permission.CAMERA,0.1567602916324322
+android.intent.action.UMS_CONNECTED,0.15444552832217084
+android.permission.CHANGE_NETWORK_STATE,0.15014264040665815
+android.permission.READ_LOGS,0.14965475590474409
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS,0.14544359778115723
+android.permission.INSTALL_PACKAGES,0.1439126751064954
+android.intent.action.NEW_OUTGOING_CALL,0.13793820179378802
+android.permission.DELETE_PACKAGES,0.13589363977935331
+android.permission.SYSTEM_ALERT_WINDOW,0.13508728765297917
+"Context.bindService(android.content.Intent, android.content.ServiceConnection, int)",0.13386684224584666
+TelephonyManager.getCallState(),0.13120084926866316
+android.permission.KILL_BACKGROUND_PROCESSES,0.1288492757025299
+ActivityManager.killBackgroundProcesses(java.lang.String),0.12823090713886476
+android.permission.RECEIVE_WAP_PUSH,0.117282382792669
+android.permission.READ_CALENDAR,0.1163572041276355
+android.permission.CHANGE_CONFIGURATION,0.10612310539230396
+android.permission.WRITE_SECURE_SETTINGS,0.10224343547007919
+"PhoneStateListener.onCallStateChanged(int, java.lang.String)",0.10169086861290655
+android.permission.CLEAR_APP_CACHE,0.10068465942908489
+Context.getExternalFilesDir(java.lang.String),0.09856389997306536
+System.nanoTime(),0.0956129926329341
+SSLSocket.startHandshake(),0.09392830005930186
+android.intent.action.DATA_SMS_RECEIVED,0.09188811293517674
+android.permission.GET_PACKAGE_SIZE,0.0891550871422151
+android.permission.RECORD_AUDIO,0.08074918727158753
+LocationManager.getGpsStatus(android.location.GpsStatus),0.08036404833261912
+Vibrator.cancel(),0.07922508846094356
+android.permission.WRITE_CALENDAR,0.07871300072066578
+Context.setWallpaper(java.io.InputStream),0.07779466394631562
+BluetoothAdapter.getAddress(),0.07749792370293385
+WifiManager.startScan(),0.07347043155617339
+WifiManager.getScanResults(),0.07094655560724306
+"AccountManager.invalidateAuthToken(java.lang.String, java.lang.String)",0.0687933727449428
+android.permission.READ_SYNC_SETTINGS,0.0680024022948329
+android.intent.action.BATTERY_OKAY,0.06586991876466008
+ContentResolver.getMasterSyncAutomatically(),0.06296079966344159
+AccountManager.getAccountsByType(java.lang.String),0.06289448693754185
+"LocationManager.requestLocationUpdates(java.lang.String, long, float, android.app.PendingIntent)",0.06229060387909069
+android.service.wallpaper.WallpaperService,0.06133900392232139
+Service.onRebind(android.content.Intent),0.06081564709614895
+ContentResolver.setMasterSyncAutomatically(boolean),0.06079970360185172
+android.permission.WRITE_SYNC_SETTINGS,0.059609942506222424
+android.permission.BROADCAST_PACKAGE_REMOVED,0.0595312773171095
+Context.setWallpaper(android.graphics.Bitmap),0.05900522023099253
+android.permission.CONTROL_LOCATION_UPDATES,0.05895273454920247
+android.intent.action.SEARCH_LONG_PRESS,0.05670946516633357
+android.permission.SET_PREFERRED_APPLICATIONS,0.05607281425288946
+android.intent.action.REBOOT,0.05354399841264712
+android.permission.UPDATE_DEVICE_STATS,0.05350124129259903
+android.app.action.DEVICE_ADMIN_ENABLED,0.052223061811016436
+android.permission.EXPAND_STATUS_BAR,0.04933735847019083
+Runtime.addShutdownHook(java.lang.Thread),0.04852874946272667
+android.permission.SET_WALLPAPER_HINTS,0.0471437611588188
+android.provider.Telephony.WAP_PUSH_RECEIVED,0.046981660095729794
+"PackageManager.setComponentEnabledSetting(android.content.ComponentName, int, int)",0.04695510095978239
+Activity.removeDialog(int),0.04687261338206916
+Time.toMillis(boolean),0.04660589807184312
+DevicePolicyManager.wipeData(int),0.04656041334804417
+android.permission.MODIFY_AUDIO_SETTINGS,0.0461607362619203
+android.intent.action.PACKAGE_REPLACED,0.046105271231537515
+android.permission.READ_EXTERNAL_STORAGE,0.045475465163471895
+ConnectivityManager.isActiveNetworkMetered(),0.04537453924754775
+DataOutputStream.writeFloat(float),0.04392266280205348
+Duration.equals(java.lang.Object),0.0437557363695511
+TelephonyManager.getDeviceSoftwareVersion(),0.04330600567767817
+"Document.createElementNS(java.lang.String, java.lang.String)",0.04323904657692257
+android.permission.DELETE_CACHE_FILES,0.04297356928163598
+com.android.alarm.permission.SET_ALARM,0.04259586610115562
+android.intent.category.ALTERNATIVE,0.04194178520926606
+BluetoothDevice.getBondState(),0.04061472690252188
+android.intent.action.TIME_SET,0.04048977987927049
+android.permission.BROADCAST_STICKY,0.038845015946898265
+PhoneStateListener.onServiceStateChanged(android.telephony.ServiceState),0.03766348773349115
+"LocalActivityManager.startActivity(java.lang.String, android.content.Intent)",0.03560897060130941
+android.intent.action.INSERT,0.03539516475074489
+WallpaperManager.setResource(int),0.034669629304368677
+android.intent.action.SET_WALLPAPER,0.032971932704825235
+TelephonyManager.getVoiceMailNumber(),0.03051564565894882
+PackageManager.addPackageToPreferred(java.lang.String),0.02801090937623485
+android.permission.MOUNT_FORMAT_FILESYSTEMS,0.027950898898981613
+android.intent.category.MONKEY,0.027239649599615667
+BluetoothAdapter.getScanMode(),0.026615979164265724
+"Gallery.onFocusChanged(boolean, int, android.graphics.Rect)",0.02644029389997815
+android.permission.STATUS_BAR,0.02540480558403324
+android.permission.REBOOT,0.02514116376892339
+PhoneStateListener.onCellLocationChanged(android.telephony.CellLocation),0.0249248105931148
+Time.normalize(boolean),0.024867212989829746
+WallpaperManager.setBitmap(android.graphics.Bitmap),0.023825447122297838
+ServiceState.getOperatorAlphaLong(),0.021539253107944134
+android.view.InputMethod,0.02071247559016065
+"MediaPlayer.setWakeMode(android.content.Context, int)",0.020505248147061117
+Camera.getNumberOfCameras(),0.019386248800315364
+"Service.startForeground(int, android.app.Notification)",0.018505481260948642
+"ContentResolver.getSyncAutomatically(android.accounts.Account, java.lang.String)",0.018408023042359112
+Context.removeStickyBroadcast(android.content.Intent),0.017773820646794114
+android.permission.BROADCAST_WAP_PUSH,0.017683023306656942
+android.permission.BATTERY_STATS,0.01666848588522818
+android.permission.BROADCAST_SMS,0.015347406126498875
+BluetoothAdapter.getState(),0.014664753615229564
+android.permission.BIND_APPWIDGET,0.01414798412420648
+TrafficStats.untagSocket(java.net.Socket),0.009936125612126645
+android.provider.Telephony.SIM_FULL,0.009571777632567446
+NfcAdapter.disableForegroundDispatch(android.app.Activity),0.009465910647390885
+ListFragment.setListShown(boolean),0.009126162803751114
+Loader.reset(),0.007259521019268966
+LocationManager.removeProximityAlert(android.app.PendingIntent),0.006981748436669655
+Element.removeAttribute(java.lang.String),0.006904382666073516
+"BluetoothAdapter.listenUsingRfcommWithServiceRecord(java.lang.String, java.util.UUID)",0.006750936449237521
+BluetoothDevice.createRfcommSocketToServiceRecord(java.util.UUID),0.006663119971956455
+android.permission.NFC,0.0064248404631772615
+BluetoothAdapter.cancelDiscovery(),0.005397152864935251
+android.permission.CHANGE_COMPONENT_ENABLED_STATE,0.00404944859385914
+android.permission.CALL_PRIVILEGED,0.003949276027362281
+"Location.convert(double, int)",0.0035974888147691786
+android.bluetooth.adapter.action.STATE_CHANGED,0.0029098368184783396
+"AudioRecord.AudioRecord(int, int, int, int, int)",0.0009940070030136638
+Context.getExternalCacheDir(),0.0007696011485283094
+android.permission.PERSISTENT_ACTIVITY,0.0007414541264081365
+BluetoothAdapter.startDiscovery(),0.0006428083292915332
+android.bluetooth.device.action.ACL_CONNECTED,0.0006277163709542677
+Activity.stopManagingCursor(android.database.Cursor),0.0
+BluetoothAdapter.getBondedDevices(),0.0
+BluetoothAdapter.getName(),0.0
+BluetoothAdapter.isDiscovering(),0.0
+BluetoothAdapter.setName(java.lang.String),0.0
+BluetoothDevice.getBluetoothClass(),0.0
+BluetoothDevice.getName(),0.0
+BluetoothSocket.connect(),0.0
+CellLocation.requestLocationUpdate(),0.0
+Context.sendStickyBroadcast(android.content.Intent),0.0
+DataSetObserver.onChanged(),0.0
+"LocationManager.addProximityAlert(double, double, float, long, android.app.PendingIntent)",0.0
+Node.getNamespaceURI(),0.0
+"PopupWindow.setWindowLayoutMode(int, int)",0.0
+PowerManager.reboot(java.lang.String),0.0
+RingtoneManager.getCursor(),0.0
+"ScrollingMovementMethod.up(android.widget.TextView, android.text.Spannable)",0.0
+ServiceState.getOperatorNumeric(),0.0
+TelephonyManager.getVoiceMailAlphaTag(),0.0
+WallpaperManager.clear(),0.0
+WallpaperManager.getDrawable(),0.0
+WallpaperManager.setStream(java.io.InputStream),0.0
+"WallpaperManager.suggestDesiredDimensions(int, int)",0.0
+android.app.action.DEVICE_ADMIN_DISABLED,0.0
+android.app.action.DEVICE_ADMIN_DISABLE_REQUESTED,0.0
+android.bluetooth.device.action.ACL_DISCONNECTED,0.0
+android.intent.action.CALL_BUTTON,0.0
+android.intent.action.EVENT_REMINDER,0.0
+android.intent.action.MEDIA_CHECKING,0.0
+android.intent.category.SELECTED_ALTERNATIVE,0.0
+android.media.action.IMAGE_CAPTURE,0.0
+android.permission.ACCESS_CHECKIN_PROPERTIES,0.0
+android.permission.ACCOUNT_MANAGER,0.0
+android.permission.BIND_WALLPAPER,0.0
+android.permission.CHANGE_WIFI_MULTICAST_STATE,0.0
+android.permission.FACTORY_TEST,0.0
+android.permission.REORDER_TASKS,0.0

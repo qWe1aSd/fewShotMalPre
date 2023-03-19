@@ -1,0 +1,4 @@
+approach,all f1 (mean),large f1 (mean),medium f1 (mean),small f1 (mean),all f1 (std),large f1 (std),medium f1 (std),small f1 (std),all false (mean),large false (mean),medium false (mean),small false (mean),all false (std),large false (std),medium false (std),small false (std)
+1,0.8982,0.9563,0.8581,0.818,0.0164,0.0145,0.044,0.0384,16,4,4,8,2,1,1,2
+2,0.9487,0.975,0.9194,0.9223,0.0083,0.006,0.036,0.0256,8,2,2,3,0,1,1,1
+3,0.943,0.9717,0.9113,0.9143,0.011,0.0073,0.0338,0.0277,9,2,2,3,1,1,1,1
