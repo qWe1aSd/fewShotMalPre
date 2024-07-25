@@ -1,5 +1,8 @@
-# Detection of Android Malware Family under the Few-Shot Constraint
+# An Empirical Study of Android Malware Family Detection Based on Few-Shot Learning
 
-此文件是针对数据集 Androzoo 和 Drebin 的恶意软件家族检测的补充文档 :file_folder:，包括数据集、特征集、各评估指标对应的实验结果和源代码。
+This document serves as a supplementary file :file_folder: for the malware family detection of the Androzoo and Drebin datasets. It includes the datasets, feature sets, and experimental results for various evaluation metrics. Additionally, it provides the source code.
 
-本工作旨在综合调研和分析基于小样本学习 (包括采样、数据增强、迁移学习、元学习、多模态学习等方法) 的家族检测效果，并探究孪生网络框架下的网络模型选择和优化等问题。
+The purpose of this work is to conduct a comprehensive survey and analysis of the effects of family detection based on few-shot learning. This encompasses a variety of methods, such as sampling, data augmentation, transfer learning, meta-learning, and multimodal learning.
+
+Furthermore, the study delves into the selection and optimization of network models within the siamese network framework. This exploration is crucial for enhancing the performance of malware family detection.
+
