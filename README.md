@@ -1,4 +1,4 @@
-# An Empirical Study of Android Malware Family Detection Based on Few-Shot Learning
+# Android Malware Family Detection Based on Few-Shot Learning
 
 This document serves as a supplementary file :file_folder: for the malware family detection of the Androzoo and Drebin datasets. It includes the datasets, feature sets, and experimental results for various evaluation metrics. Additionally, it provides the source code.
 
